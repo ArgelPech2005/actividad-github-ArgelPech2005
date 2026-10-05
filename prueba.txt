@@ -1,0 +1,4 @@
+¿Para qué sirve GitHub en proyectos colaborativos?
+Sirve para manejar un control de versiones centralizado y se puede trabajar desde cualquier lugar, 
+donde cada colaborador tiene su propia rama y propone alguna mejora
+esto mismo facilita a los usuarios o colaboradores al momento de programar de manera remota.
